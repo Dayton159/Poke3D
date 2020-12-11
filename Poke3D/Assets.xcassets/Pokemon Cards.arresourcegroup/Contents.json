@@ -1,0 +1,29 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "eevee-card.arreferenceimage"
+    },
+    {
+      "filename" : "emolga-card.arreferenceimage"
+    },
+    {
+      "filename" : "jirachi-card.arreferenceimage"
+    },
+    {
+      "filename" : "oddish-card.arreferenceimage"
+    },
+    {
+      "filename" : "pachirisu-card.arreferenceimage"
+    },
+    {
+      "filename" : "pikachu-card.arreferenceimage"
+    },
+    {
+      "filename" : "snorlax-card.arreferenceimage"
+    }
+  ]
+}
